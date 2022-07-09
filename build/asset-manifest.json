@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53a4b781.css",
+    "main.js": "/static/js/main.7b92ccc5.js",
+    "static/media/logo.png": "/static/media/logo.73d780caf9e11bc0eaeb.png",
+    "static/media/Planet.svg": "/static/media/Planet.7113b448fe22224e2ab724d2e3e20d88.svg",
+    "static/media/Info.svg": "/static/media/Info.1196f81fc8e1fd92019e06e1313a97d8.svg",
+    "static/media/Delete.svg": "/static/media/Delete.f65fe7acb2287132f8d0111b38cff792.svg",
+    "static/media/AddBackground.svg": "/static/media/AddBackground.cbe0ab03ff8ed471fbec0a442f133b81.svg",
+    "static/media/Grid.svg": "/static/media/Grid.7cf014d0de3af1bfe2b4ef9b90dc9efd.svg",
+    "static/media/Notif.svg": "/static/media/Notif.160f6cb1d1a73b8e88d496408bd3b381.svg",
+    "static/media/Exit.svg": "/static/media/Exit.a991c667ab03eac3e8f5a32de96890c1.svg",
+    "static/media/Star.svg": "/static/media/Star.df104997f1de0987aba3d1a6c3cbe0f7.svg",
+    "static/media/Warning.svg": "/static/media/Warning.75b657857b49802a785551326fda5c4b.svg",
+    "static/media/FilledStar.svg": "/static/media/FilledStar.ce98feaa7d5795eb8c3b01c2fbe50a4a.svg",
+    "index.html": "/index.html",
+    "static/media/Spinner.svg": "/static/media/Spinner.2a14e2963c752fbb5cbc3d93f293254b.svg"
+  },
+  "entrypoints": [
+    "static/css/main.53a4b781.css",
+    "static/js/main.7b92ccc5.js"
+  ]
+}
